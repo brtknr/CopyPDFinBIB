@@ -1,7 +1,7 @@
 # Usage
 
 ```bash
-git clone https://github.com/brtknr/ExtractBibPDF.git
-chmod +x ExtractBibPDF.py
-./ExtractBibPDF.py --bibFile MendeleyLibrary.bib --extractTo DestinationFolder/
+git clone https://github.com/brtknr/ExtractPDFinBIB.git
+chmod +x ExtractPDFinBIB.py
+./ExtractPDFinBIB.py --bibFile MendeleyLibrary.bib --extractTo DestinationFolder/
 ```
